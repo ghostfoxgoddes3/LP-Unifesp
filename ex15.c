@@ -4,7 +4,7 @@ int main(){
   float t_cel, t_fah;
   
   printf("Qual a temperatura local em Fahrenheit?");
-  scanf("%i",&t_fah);
+  scanf("%f",&t_fah);
 
   t_cel = 5.0/9*(t_fah - 32);
   
