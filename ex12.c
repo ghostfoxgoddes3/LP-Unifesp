@@ -10,5 +10,5 @@ int main(){
 
   salary = salary*readjustment/100
   
-  printf("Salário reajustado para o ano corrente: %.2f%%\n", salary);
+  printf("Salário reajustado para o ano corrente: %.2f\n", salary);
 }
